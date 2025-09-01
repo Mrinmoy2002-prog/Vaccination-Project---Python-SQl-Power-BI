@@ -1,0 +1,6 @@
+numpy 
+pandas 
+matplotlib
+seaborn
+pyodbc==5.2.0
+SQLAlchemy==2.0.43
